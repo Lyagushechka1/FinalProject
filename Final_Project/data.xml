@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <Title>1</Title>
+    <Text>Сделать дз 1</Text>
+    <DateOfRegister>2006-04-25</DateOfRegister>
+  </user>
+  <user>
+    <Text>Сделаь дз 2</Text>
+    <Title>2</Title>
+  </user>
+</users>
