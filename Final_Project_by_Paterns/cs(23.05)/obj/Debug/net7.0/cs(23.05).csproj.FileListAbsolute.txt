@@ -1,0 +1,15 @@
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/bin/Debug/net7.0/cs(23.05)
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/bin/Debug/net7.0/cs(23.05).deps.json
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/bin/Debug/net7.0/cs(23.05).runtimeconfig.json
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/bin/Debug/net7.0/cs(23.05).dll
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/bin/Debug/net7.0/cs(23.05).pdb
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).csproj.AssemblyReference.cache
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).AssemblyInfoInputs.cache
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).AssemblyInfo.cs
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).dll
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/refint/cs(23.05).dll
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).pdb
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/cs(23.05).genruntimeconfig.cache
+/Users/gleb/Desktop/VS/cs(23.05)/cs(23.05)/obj/Debug/net7.0/ref/cs(23.05).dll
